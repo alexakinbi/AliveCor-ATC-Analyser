@@ -1,4 +1,4 @@
-# AliveCorKardia .atc ECG file analyser
+# AliveCorKardia .atc ECG File Reader
  This repository contains code to analyse, plot and visual the AliveCor .atc ECG file.  
  The code extracts all 6 ECG leads data, saves them into a CSV format and plots the ECG signals.
 
